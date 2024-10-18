@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:1:1-22:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/9d0f74eef40913232e06c53d66e2fd1f/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/91bb4c89e0a6c71512dc18b50e7fab88/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/stoyan/.gradle/caches/8.9/transforms/678ff04430b0a74321aefcffd1786073/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/stoyan/.gradle/caches/8.9/transforms/286d5bde5fa7cbe822de633d5b9618c6/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/stoyan/.gradle/caches/8.9/transforms/2cfef5529ec5a0ea0487b990afb8dded/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/stoyan/.gradle/caches/8.9/transforms/e186331f22beb492fe61702b44588244/transformed/appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/3cd41d2ed935875791d0102cf765d249/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/82b6fcd0d18df1d9ad37932047a92ffb/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/83d4f241711dc443beb9be8ed4a750c3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/da4813f279c5e10a52b105199ac6c96a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/79bd8b5f020b7af335b210e54c36dff3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/fe0db04e8f5e6b3ecf478a965636048f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/defa2a8efca3d72d1e576a7d5c23d5a2/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/4324987a357424ca5ab9c8195da6b173/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/af95137d085b4c76d35ddff504a1efb0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/dd68279ed4d95562ead446ea648a8a16/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/2b217e7be629a39fdd09fd96a0004a28/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/0006db71d2b6cd0eeb90ef7eab8830a2/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/stoyan/.gradle/caches/8.9/transforms/1a05b3093ed2440ccfd582b49bf5e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/d0a2580fad043f16d6407d817c9c3e0d/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stoyan/.gradle/caches/8.9/transforms/c5c1108d7fe92b7b758a92d71bc92623/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/85693db21b9dc1314a0f102b9a9fbf06/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/cc0c187551eff40442be21aefbc65269/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/5f6aed54abd3f4926014cacc4a7a3dfb/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/9a4ef5fb2acdb6a34d5a8841e1f5a411/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/2ac438a4133f7537de5cfb55dff0ae14/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:6:5-20:19
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/91bb4c89e0a6c71512dc18b50e7fab88/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/91bb4c89e0a6c71512dc18b50e7fab88/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/4324987a357424ca5ab9c8195da6b173/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/4324987a357424ca5ab9c8195da6b173/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/stoyan/.gradle/caches/8.9/transforms/1a05b3093ed2440ccfd582b49bf5e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/stoyan/.gradle/caches/8.9/transforms/1a05b3093ed2440ccfd582b49bf5e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/4324987a357424ca5ab9c8195da6b173/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:7:9-39
+	android:theme
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:8:9-40
+activity#com.example.timerapp.MainActivity
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:exported
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/9d0f74eef40913232e06c53d66e2fd1f/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/9d0f74eef40913232e06c53d66e2fd1f/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/91bb4c89e0a6c71512dc18b50e7fab88/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/91bb4c89e0a6c71512dc18b50e7fab88/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/stoyan/.gradle/caches/8.9/transforms/678ff04430b0a74321aefcffd1786073/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/stoyan/.gradle/caches/8.9/transforms/678ff04430b0a74321aefcffd1786073/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/stoyan/.gradle/caches/8.9/transforms/286d5bde5fa7cbe822de633d5b9618c6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/stoyan/.gradle/caches/8.9/transforms/286d5bde5fa7cbe822de633d5b9618c6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/stoyan/.gradle/caches/8.9/transforms/2cfef5529ec5a0ea0487b990afb8dded/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/stoyan/.gradle/caches/8.9/transforms/2cfef5529ec5a0ea0487b990afb8dded/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/stoyan/.gradle/caches/8.9/transforms/e186331f22beb492fe61702b44588244/transformed/appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/stoyan/.gradle/caches/8.9/transforms/e186331f22beb492fe61702b44588244/transformed/appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/3cd41d2ed935875791d0102cf765d249/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/3cd41d2ed935875791d0102cf765d249/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/82b6fcd0d18df1d9ad37932047a92ffb/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/82b6fcd0d18df1d9ad37932047a92ffb/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/83d4f241711dc443beb9be8ed4a750c3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/83d4f241711dc443beb9be8ed4a750c3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/da4813f279c5e10a52b105199ac6c96a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/da4813f279c5e10a52b105199ac6c96a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/79bd8b5f020b7af335b210e54c36dff3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/79bd8b5f020b7af335b210e54c36dff3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/fe0db04e8f5e6b3ecf478a965636048f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/fe0db04e8f5e6b3ecf478a965636048f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/defa2a8efca3d72d1e576a7d5c23d5a2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/defa2a8efca3d72d1e576a7d5c23d5a2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/4324987a357424ca5ab9c8195da6b173/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/stoyan/.gradle/caches/8.9/transforms/4324987a357424ca5ab9c8195da6b173/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/af95137d085b4c76d35ddff504a1efb0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/af95137d085b4c76d35ddff504a1efb0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/dd68279ed4d95562ead446ea648a8a16/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/dd68279ed4d95562ead446ea648a8a16/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/2b217e7be629a39fdd09fd96a0004a28/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/2b217e7be629a39fdd09fd96a0004a28/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/0006db71d2b6cd0eeb90ef7eab8830a2/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/0006db71d2b6cd0eeb90ef7eab8830a2/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/stoyan/.gradle/caches/8.9/transforms/1a05b3093ed2440ccfd582b49bf5e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/stoyan/.gradle/caches/8.9/transforms/1a05b3093ed2440ccfd582b49bf5e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/d0a2580fad043f16d6407d817c9c3e0d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/d0a2580fad043f16d6407d817c9c3e0d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stoyan/.gradle/caches/8.9/transforms/c5c1108d7fe92b7b758a92d71bc92623/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stoyan/.gradle/caches/8.9/transforms/c5c1108d7fe92b7b758a92d71bc92623/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/85693db21b9dc1314a0f102b9a9fbf06/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/stoyan/.gradle/caches/8.9/transforms/85693db21b9dc1314a0f102b9a9fbf06/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/cc0c187551eff40442be21aefbc65269/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/cc0c187551eff40442be21aefbc65269/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/5f6aed54abd3f4926014cacc4a7a3dfb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/stoyan/.gradle/caches/8.9/transforms/5f6aed54abd3f4926014cacc4a7a3dfb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/9a4ef5fb2acdb6a34d5a8841e1f5a411/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/9a4ef5fb2acdb6a34d5a8841e1f5a411/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/2ac438a4133f7537de5cfb55dff0ae14/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/stoyan/.gradle/caches/8.9/transforms/2ac438a4133f7537de5cfb55dff0ae14/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/stoyan/AndroidStudioProjects/timerapp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/b0580da8b003add23da7e6184e3cf597/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/stoyan/.gradle/caches/8.9/transforms/1b3ebbb709d97029affab45ac920aa5b/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/stoyan/.gradle/caches/8.9/transforms/f2ea1acb0e8214845d3393ef5e1a3899/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.timerapp-debug-18:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.timerapp-main-20:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.timerapp-debug-18:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.timerapp-main-20:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.timerapp-debug-18:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.timerapp-main-20:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.timerapp-debug-18:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.timerapp-main-20:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.timerapp-debug-18:/layout_activity_main.xml.flat",
+        "source": "com.example.timerapp-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.timerapp-debug-18:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.timerapp-main-20:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

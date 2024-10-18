@@ -1,0 +1,4 @@
+#Fri Oct 18 15:12:18 EEST 2024
+base.0=/home/stoyan/AndroidStudioProjects/timerapp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

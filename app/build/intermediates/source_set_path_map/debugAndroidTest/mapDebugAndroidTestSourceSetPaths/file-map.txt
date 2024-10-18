@@ -1,0 +1,4 @@
+com.example.timerapp.test.app-androidTest-0 /home/stoyan/AndroidStudioProjects/timerapp/app/build/generated/res/resValues/androidTest/debug
+com.example.timerapp.test.app-mergeDebugAndroidTestResources-1 /home/stoyan/AndroidStudioProjects/timerapp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.timerapp.test.app-mergeDebugAndroidTestResources-2 /home/stoyan/AndroidStudioProjects/timerapp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.timerapp.test.app-debugAndroidTest-3 /home/stoyan/AndroidStudioProjects/timerapp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

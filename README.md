@@ -2,7 +2,7 @@
 
 A simple Wear OS app for tracking time and submitting entries to Clockify.
 
-## Features
+## App Features
 
 - Start and stop a timer on your Galaxy Watch
 - Select a Clockify project to associate with the time entry
